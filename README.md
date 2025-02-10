@@ -4,14 +4,14 @@ A cloud-native application deployed on Kubernetes to monitor system performance 
 
 ## Key Features
 
-#**Kubernetes Deployment** : Ensured high availability, scalability, and fault tolerance by leveraging Kubernetes for orchestrating application components.
+**Kubernetes Deployment** : Ensured high availability, scalability, and fault tolerance by leveraging Kubernetes for orchestrating application components.
 
-#**Grafana Dashboards**: Configured and customized Grafana to visualize system metrics, analyze performance trends, and proactively track health.
+**Grafana Dashboards**: Configured and customized Grafana to visualize system metrics, analyze performance trends, and proactively track health.
 
-#**Prometheus Integration**: Enabled efficient metric collection and alerting through Prometheus, providing real-time monitoring capabilities.
+**Prometheus Integration**: Enabled efficient metric collection and alerting through Prometheus, providing real-time monitoring capabilities.
 
-#**Containerization with Docker**: Containerized the application using Docker to ensure consistent runtime environments across different stages of development and deployment.
+**Containerization with Docker**: Containerized the application using Docker to ensure consistent runtime environments across different stages of development and deployment.
 
-#**Logging and Alerts**: Implemented centralized logging and alerting mechanisms to detect performance bottlenecks and system failures.
+**Logging and Alerts**: Implemented centralized logging and alerting mechanisms to detect performance bottlenecks and system failures.
 
-#**Resource Optimization**: Fine-tuned resource allocation to optimize application performance and reduce cloud infrastructure costs.
+**Resource Optimization**: Fine-tuned resource allocation to optimize application performance and reduce cloud infrastructure costs.
